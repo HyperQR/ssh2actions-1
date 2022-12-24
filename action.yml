@@ -1,4 +1,4 @@
-name: 'SSH to Actions'
+name: 'SSH-server in actions'
 author: 'HyperQR'
 description: 'Connect to GitHub Actions VM via SSH for interactive debugging'
 inputs:
